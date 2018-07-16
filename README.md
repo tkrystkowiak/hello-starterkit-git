@@ -1,3 +1,4 @@
 # hello-starterkit-git
-siemka
-haha
+hej
+hej
+hej
